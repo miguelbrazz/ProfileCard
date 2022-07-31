@@ -110,10 +110,10 @@ main {
 	border-radius: 1rem;
 	background-color: var(--primary);
 	color: #FFF;
-	font-size: 1.15rem;
+	font-size: 1.06rem;
 	font-weight: 500;
 	margin: 0 0.4rem;
-	min-width: 130px;
+	min-width: 125px;
 	transition: 0.4s;
 }
 
