@@ -14,7 +14,7 @@
 
 main {
 	min-height: 100vh;
-	background-image: linear-gradient(to bottom right, rgba(189, 214, 252, 0.842), rgba(26, 98, 206, 0.842));
+	background-image: linear-gradient(to bottom right, hwb(216 59% 3% / 0.842), rgb(0, 63, 158));
 	display: flex;
 	align-items: center;
 	justify-content: center;
