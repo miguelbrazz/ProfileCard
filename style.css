@@ -57,7 +57,7 @@ main {
 
 .card:hover {
 	--card-width: 500px;
-	--image-width: calc(var(--card-width) / 2.2);
+	--image-width: calc(var(--card-width) / 2.3);
 }
 
 .card:hover .image {
@@ -164,13 +164,13 @@ span {
 		width: 345px;
 	}
 	.card:hover {
+		margin-top: 45px;
 		--card-width: 345px;
 		--image-width: calc(var(--card-width) / 1.62);
 	}
 
 	.card .buttons a {
 		min-width: 100px;
-		
 		margin: auto;
 		margin-inline: 4px;
 		font-size: 0.8rem;
