@@ -170,9 +170,9 @@ span {
 	}
 
 	.card .buttons a {
-		min-width: 100px;
+		min-width: 103px;
 		margin: auto;
 		margin-inline: 4px;
-		font-size: 0.8rem;
+		font-size: 0.79rem;
 	}
 }
